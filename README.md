@@ -1,2 +1,3 @@
 # Python-DSA
-basics of python and data structure and alogrithm
+basics of data structure and alogrithm in python
+
